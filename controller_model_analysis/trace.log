@@ -1,0 +1,6 @@
+CARD: query 13 has scale cardinality   order
+CARD: query 14 has scale cardinality   all
+CARD: query 26 has scale cardinality  has_many blogs
+CARD: query 27 has scale cardinality   count
+CARD: query 33 has scale cardinality  has_many comments
+CARD: query 34 has scale cardinality   count
